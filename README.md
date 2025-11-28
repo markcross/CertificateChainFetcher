@@ -53,7 +53,9 @@ README
 
 ## Example output
 
+```
 $ ./get_intermediate_and_root_certs.sh
+
 === CHAIN VERIFICATION ===
 google_cert_2026-01-19_08-33-42.pem: OK
 
