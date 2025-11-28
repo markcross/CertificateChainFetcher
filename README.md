@@ -79,6 +79,7 @@ README
 - Bash shell
 - OpenSSL CLI
 - wget or curl available in your environment
+- Download the script and chmod +x get_intermediate_and_root_certs.sh
 
 ## License
 
