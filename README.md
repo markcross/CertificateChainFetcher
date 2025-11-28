@@ -32,15 +32,12 @@ README
 
 3. The script outputs expiry-dated files and bundles, e.g.:
 
-```
    $ ls -1 *.pem
    google_cert_2026-01-19_08-33-42.pem
    google_cert_chain_2026-01-19_08-33-42.pem
    google_cert_fullchain_2026-01-19_08-33-42.pem
    google_cert_intermediate_2025-11-28_00-00-00.pem
    google_cert_root_2025-11-28_00-00-00.pem
-
-```
 
 4. Use the `_fullchain.pem` file in your web servers (Nginx, Apache, HAProxy, etc.)
 
